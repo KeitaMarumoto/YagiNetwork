@@ -1,0 +1,24 @@
+body{
+	margin: 40px;
+	background-color: #CFF7FF;
+}
+
+input {
+	height: 40px;
+	padding: 10px;
+}
+ul{
+	list-style-type: none;
+	margin:none;
+	padding:none;
+}
+
+.message{
+	border-bottom: 1px solid #fff;
+	padding: 5px;
+	margin: 2px;
+}
+button{
+	height:40px;
+	padding:10px;
+}
